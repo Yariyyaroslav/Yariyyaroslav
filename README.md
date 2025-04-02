@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yariy Yaroslav</h1>
 <h3 align="center">Beginner frontend developer from Ukraine</h3>
 
+
 - 🌱 I’m currently learning **Frontend courses**
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
