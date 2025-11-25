@@ -2,7 +2,7 @@
 👋 Hi! I'm **Yaroslav**, a beginner **Frontend Developer**.  
 Currently, I'm learning how to build responsive and modern web applications.  
 
-🌱 I’m studying **HTML, CSS, JavaScript, TailwindCSS, and SASS**, and also practicing **Git** for version control.  
+🌱 I’m studying **HTML, CSS, JavaScript, TailwindCSS, and RestApi**, and also practicing **Git** for version control.  
 ⚡ Besides web development, I’m also interested in **Arduino** and experimenting with hardware projects.  
 
 ---
@@ -20,7 +20,7 @@ Currently, I'm learning how to build responsive and modern web applications.
 
 ## 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,git,arduino,RestApi" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,git,arduino" alt="Tech Stack"/>
 </p>
 
 ---
