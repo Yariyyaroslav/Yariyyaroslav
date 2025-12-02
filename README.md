@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hi! I'm **Yaroslav**, a beginner **Frontend Developer**.  
-Currently, I'm learning how to build responsive and modern web applications.  
+👋 Hi! I'm **Yaroslav**, **Frontend Developer**.  
+Currently, I'm building responsive and modern web applications.  
 
 🌱 I’m studying **HTML, CSS, JavaScript, TailwindCSS, and RestApi**, and also practicing **Git** for version control.  
 ⚡ Besides web development, I’m also interested in **Arduino** and experimenting with hardware projects.  
