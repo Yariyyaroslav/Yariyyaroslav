@@ -27,7 +27,7 @@ Currently, I'm learning how to build responsive and modern web applications.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github.com/YAriyyaroslav/github-readme-stats" alt="GitHub stats"/>
+  <img src="https://github.com/Yariyyaroslav/github-readme-stats" alt="GitHub stats"/>
 </p>
 
 ---
