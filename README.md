@@ -29,7 +29,8 @@ Currently, I'm building responsive and modern web applications.
 <p align="center">
   <img src="https://github.com/Yariyyaroslav/github-readme-stats" alt="GitHub stats"/>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yariyyaroslav)](https://github.com/yariyyaroslav/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yariyyaroslav)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 <h3 align="center">🚀 Always learning and building new things! 🚀</h3>
