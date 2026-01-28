@@ -20,7 +20,7 @@ Currently, I'm building responsive and modern web applications.
 
 ## 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,git,arduino" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,git,arduino,react" alt="Tech Stack"/>
 </p>
 
 ---
