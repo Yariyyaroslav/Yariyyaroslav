@@ -28,11 +28,11 @@ Currently, I'm building responsive and modern web applications.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yariyyaroslav&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yariyyaroslav&show_icons=true&theme=neon&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yariyyaroslav&layout=compact&theme=tokyonight&hide=html,css,scss&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yariyyaroslav&layout=compact&theme=neon&hide=html,css,scss&hide_border=true" />
 </p>
 
 
