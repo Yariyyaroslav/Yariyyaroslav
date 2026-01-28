@@ -32,7 +32,7 @@ Currently, I'm building responsive and modern web applications.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yariyyaroslav&layout=compact&theme=neon&hide=html,css,scss&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yariyyaroslav&layout=compact&theme=midnight-purple&hide=html,css,scss&hide_border=true" />
 </p>
 
 
